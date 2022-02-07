@@ -1,0 +1,15 @@
+cd C:/Users/박유진/Desktop/박유진/학습산출물/2022년02월/02_07/02_07_5_리액트_포트폴리오_웹제작_완료_깃허브_push
+
+
+config 환경설정
+
+youjin_1202@naver.com
+qkrbwls
+
+깃 레포지토리 주소( git remote add origin )
+https://github.com/qkrbwls/starBucks_react.git
+
+
+1. cd 경로 바꾸기
+2. git init
+3. ls -la => drwxr-어쩌구 나옴 OK
